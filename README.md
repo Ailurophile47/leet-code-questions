@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
