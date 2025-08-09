@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
 ## Combinatorics
 |  |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
