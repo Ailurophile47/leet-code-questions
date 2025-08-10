@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
 ## Combinatorics
 |  |
@@ -52,4 +53,20 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
