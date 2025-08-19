@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
@@ -56,10 +57,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
