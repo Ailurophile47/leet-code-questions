@@ -58,11 +58,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
