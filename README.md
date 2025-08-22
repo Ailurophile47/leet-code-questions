@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
