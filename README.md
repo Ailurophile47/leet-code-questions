@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ailurophile47/leet-code-questions/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -65,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -73,6 +76,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -80,6 +84,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
