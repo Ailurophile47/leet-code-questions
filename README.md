@@ -12,12 +12,14 @@
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ailurophile47/leet-code-questions/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
