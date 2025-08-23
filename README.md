@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
@@ -104,4 +106,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
