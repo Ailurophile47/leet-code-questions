@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ailurophile47/leet-code-questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ailurophile47/leet-code-questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
