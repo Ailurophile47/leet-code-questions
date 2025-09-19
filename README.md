@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ailurophile47/leet-code-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0053-maximum-subarray) |
@@ -122,6 +123,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ailurophile47/leet-code-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0088-merge-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ailurophile47/leet-code-questions/tree/master/2271-rearrange-array-elements-by-sign) |
