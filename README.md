@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ailurophile47/leet-code-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ailurophile47/leet-code-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
@@ -143,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ailurophile47/leet-code-questions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ailurophile47/leet-code-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
