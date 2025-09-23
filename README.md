@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ailurophile47/leet-code-questions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ailurophile47/leet-code-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
@@ -33,6 +34,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
@@ -42,22 +44,27 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Math
 |  |
