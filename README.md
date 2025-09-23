@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Ailurophile47/leet-code-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
@@ -101,6 +102,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ailurophile47/leet-code-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
