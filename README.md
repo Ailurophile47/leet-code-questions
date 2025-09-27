@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/Ailurophile47/leet-code-questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Ailurophile47/leet-code-questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ailurophile47/leet-code-questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ailurophile47/leet-code-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ailurophile47/leet-code-questions/tree/master/0054-spiral-matrix) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ailurophile47/leet-code-questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Ailurophile47/leet-code-questions/tree/master/0493-reverse-pairs) |
