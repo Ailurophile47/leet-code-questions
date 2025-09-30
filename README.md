@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ailurophile47/leet-code-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ailurophile47/leet-code-questions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ailurophile47/leet-code-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ailurophile47/leet-code-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -51,6 +52,7 @@
 | [0792-binary-search](https://github.com/Ailurophile47/leet-code-questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Ailurophile47/leet-code-questions/tree/master/0907-koko-eating-bananas) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ailurophile47/leet-code-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
