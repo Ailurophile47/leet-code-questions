@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
@@ -156,6 +158,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Ailurophile47/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/Ailurophile47/leet-code-questions/tree/master/2032-largest-odd-number-in-string) |
