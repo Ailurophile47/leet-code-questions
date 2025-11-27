@@ -127,6 +127,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ailurophile47/leet-code-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
@@ -179,6 +180,7 @@
 | [0031-next-permutation](https://github.com/Ailurophile47/leet-code-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ailurophile47/leet-code-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ailurophile47/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ailurophile47/leet-code-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0234-palindrome-linked-list) |
@@ -231,6 +233,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ailurophile47/leet-code-questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0234-palindrome-linked-list) |
