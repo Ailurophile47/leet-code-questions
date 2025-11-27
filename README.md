@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ailurophile47/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
@@ -121,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ailurophile47/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0234-palindrome-linked-list) |
@@ -239,6 +241,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ailurophile47/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0148-sort-list) |
