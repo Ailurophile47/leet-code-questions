@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ailurophile47/leet-code-questions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Ailurophile47/leet-code-questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -101,6 +102,7 @@
 | [0002-add-two-numbers](https://github.com/Ailurophile47/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ailurophile47/leet-code-questions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ailurophile47/leet-code-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
@@ -113,6 +115,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0204-count-primes) |
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
 ## Bit Manipulation
 |  |
@@ -169,6 +172,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
 ## String
 |  |
