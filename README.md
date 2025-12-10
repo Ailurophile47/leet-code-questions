@@ -238,6 +238,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ailurophile47/leet-code-questions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Ailurophile47/leet-code-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ailurophile47/leet-code-questions/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ailurophile47/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
@@ -267,4 +268,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ailurophile47/leet-code-questions/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ailurophile47/leet-code-questions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ailurophile47/leet-code-questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
