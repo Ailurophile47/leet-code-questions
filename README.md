@@ -147,6 +147,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ailurophile47/leet-code-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ailurophile47/leet-code-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ailurophile47/leet-code-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0229-majority-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ailurophile47/leet-code-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/Ailurophile47/leet-code-questions/tree/master/0900-reordered-power-of-2) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ailurophile47/leet-code-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/Ailurophile47/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ailurophile47/leet-code-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ailurophile47/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Ailurophile47/leet-code-questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ailurophile47/leet-code-questions/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
