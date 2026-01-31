@@ -41,6 +41,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ailurophile47/leet-code-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ailurophile47/leet-code-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/1646-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ailurophile47/leet-code-questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -65,6 +66,7 @@
 | [1307-ugly-number-iii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ailurophile47/leet-code-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Ailurophile47/leet-code-questions/tree/master/1646-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1901-find-a-peak-element-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ailurophile47/leet-code-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -217,6 +219,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ailurophile47/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
