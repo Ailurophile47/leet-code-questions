@@ -1,28 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans(nums1.size(), -1);
+        stack<int> st;
+        map<int,int> mp;
 
-        for (int i = 0; i < nums1.size(); i++) 
+        for(int i=nums2.size()-1; i>=0; i--) 
         {
-            // find nums1[i] in nums2
-            for (int j = 0; j < nums2.size(); j++) 
-            {
-                if (nums2[j] == nums1[i]) 
-                {
-                    // search to the right
-                    for (int k = j + 1; k < nums2.size(); k++) 
-                    {
-                        if (nums2[k] > nums1[i]) 
-                        {
-                            ans[i] = nums2[k];
-                            break;
-                        }
-                    }
-                    break;
-                }
-            }
+            while(!st.empty() && nums2[st.top()]<=nums2[i]) st.pop();
+            mp[nums2[i]] = st.empty()? -1 : nums2[st.top()];
+            st.push(i);
         }
+
+        vector<int> ans(nums1.size());
+
+        for(int i=0; i<nums1.size(); i++)
+        {
+            ans[i] = mp[nums1[i]];
+        }
+
         return ans;
     }
 };
