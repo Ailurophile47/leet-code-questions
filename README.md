@@ -140,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ailurophile47/leet-code-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ailurophile47/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Ailurophile47/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -186,6 +187,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ailurophile47/leet-code-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ailurophile47/leet-code-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Ailurophile47/leet-code-questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ailurophile47/leet-code-questions/tree/master/0020-valid-parentheses) |
@@ -303,4 +305,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ailurophile47/leet-code-questions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ailurophile47/leet-code-questions/tree/master/0907-sum-of-subarray-minimums) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ailurophile47/leet-code-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
